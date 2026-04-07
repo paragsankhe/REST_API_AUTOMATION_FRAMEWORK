@@ -1,0 +1,1603 @@
+2025-12-16 10:16:02,661 [main] INFO  com.api.utils.Log - Starting test case testCreateUser 
+2025-12-16 10:16:06,922 [main] INFO  com.api.utils.Log - Response of create user{
+    "id": 8292896,
+    "name": "Jack",
+    "email": "jack421@gmail.com",
+    "gender": "male",
+    "status": "active"
+}
+2025-12-16 10:16:07,696 [main] INFO  com.api.utils.Log - Endning test case testCreateUser 
+2025-12-16 10:16:07,715 [main] INFO  com.api.utils.Log - Starting test case testGetUser 
+2025-12-16 10:16:13,669 [main] INFO  com.api.utils.Log - Response of get user{
+    "id": 8292896,
+    "name": "Jack",
+    "email": "jack421@gmail.com",
+    "gender": "male",
+    "status": "active"
+}
+2025-12-16 10:16:13,709 [main] INFO  com.api.utils.Log - Endning test case testGetUser 
+2025-12-16 10:19:35,039 [main] INFO  com.api.utils.Log - Starting test case testCreateUser 
+2025-12-16 10:19:42,102 [main] INFO  com.api.utils.Log - Response of create user{
+    "id": 8293006,
+    "name": "Jack",
+    "email": "jack948@gmail.com",
+    "gender": "male",
+    "status": "active"
+}
+2025-12-16 10:19:42,855 [main] INFO  com.api.utils.Log - Endning test case testCreateUser 
+2025-12-16 10:19:42,887 [main] INFO  com.api.utils.Log - Starting test case testGetUser 
+2025-12-16 10:20:00,437 [main] INFO  com.api.utils.Log - Response of get user{
+    "id": 8293006,
+    "name": "Jack",
+    "email": "jack948@gmail.com",
+    "gender": "male",
+    "status": "active"
+}
+2025-12-16 10:20:00,469 [main] INFO  com.api.utils.Log - Endning test case testGetUser 
+2025-12-23 21:48:48,817 [main] INFO  com.api.utils.Log - Starting test case testCreateUser 
+2025-12-23 21:48:55,779 [main] INFO  com.api.utils.Log - Response of create user{
+    "id": 8308217,
+    "name": "Jack",
+    "email": "jack121@gmail.com",
+    "gender": "male",
+    "status": "active"
+}
+2025-12-23 21:48:56,565 [main] INFO  com.api.utils.Log - Endning test case testCreateUser 
+2025-12-23 21:48:56,587 [main] INFO  com.api.utils.Log - Starting test case testGetUser 
+2025-12-23 21:49:15,472 [main] INFO  com.api.utils.Log - Response of get user{
+    "id": 8308217,
+    "name": "Jack",
+    "email": "jack121@gmail.com",
+    "gender": "male",
+    "status": "active"
+}
+2025-12-23 21:49:15,497 [main] INFO  com.api.utils.Log - Endning test case testGetUser 
+2025-12-24 13:19:52,183 [main] INFO  com.api.utils.Log - Starting test case testCreateUser 
+2025-12-24 13:19:57,273 [main] INFO  com.api.utils.Log - Response of create user{
+    "id": 8308656,
+    "name": "Jack",
+    "email": "jack175@gmail.com",
+    "gender": "male",
+    "status": "active"
+}
+2025-12-24 13:19:58,120 [main] INFO  com.api.utils.Log - Endning test case testCreateUser 
+2025-12-24 13:19:58,144 [main] INFO  com.api.utils.Log - Starting test case testGetUser 
+2025-12-24 13:20:04,415 [main] INFO  com.api.utils.Log - Response of get user{
+    "id": 8308656,
+    "name": "Jack",
+    "email": "jack175@gmail.com",
+    "gender": "male",
+    "status": "active"
+}
+2025-12-24 13:20:04,453 [main] INFO  com.api.utils.Log - Endning test case testGetUser 
+2025-12-24 13:30:41,954 [main] INFO  com.api.utils.Log - Starting test case testCreateUser 
+2025-12-24 13:30:51,008 [main] INFO  com.api.utils.Log - Response of create user{
+    "id": 8308665,
+    "name": "Jack",
+    "email": "jack861@gmail.com",
+    "gender": "male",
+    "status": "active"
+}
+2025-12-24 13:30:51,748 [main] INFO  com.api.utils.Log - Endning test case testCreateUser 
+2025-12-24 13:30:51,788 [main] INFO  com.api.utils.Log - Starting test case testGetUser 
+2025-12-24 13:31:02,344 [main] INFO  com.api.utils.Log - Response of get user{
+    "id": 8308665,
+    "name": "Jack",
+    "email": "jack861@gmail.com",
+    "gender": "male",
+    "status": "active"
+}
+2025-12-24 13:31:02,368 [main] INFO  com.api.utils.Log - Endning test case testGetUser 
+2025-12-24 13:32:14,839 [main] INFO  com.api.utils.Log - Starting test case testCreateUser 
+2025-12-24 13:32:24,771 [main] INFO  com.api.utils.Log - Response of create user{
+    "id": 8308666,
+    "name": "Jack",
+    "email": "jack664@gmail.com",
+    "gender": "male",
+    "status": "active"
+}
+2025-12-24 13:32:25,526 [main] INFO  com.api.utils.Log - Endning test case testCreateUser 
+2025-12-24 13:32:25,556 [main] INFO  com.api.utils.Log - Starting test case testGetUser 
+2025-12-24 13:33:28,891 [main] INFO  com.api.utils.Log - Starting test case testCreateUser 
+2025-12-24 13:33:37,785 [main] INFO  com.api.utils.Log - Response of create user{
+    "id": 8308668,
+    "name": "Jack",
+    "email": "jack528@gmail.com",
+    "gender": "male",
+    "status": "active"
+}
+2025-12-24 13:33:38,582 [main] INFO  com.api.utils.Log - Endning test case testCreateUser 
+2025-12-24 13:33:38,606 [main] INFO  com.api.utils.Log - Starting test case testGetUser 
+2025-12-24 13:33:41,676 [main] INFO  com.api.utils.Log - Response of get user{
+    "id": 8308668,
+    "name": "Jack",
+    "email": "jack528@gmail.com",
+    "gender": "male",
+    "status": "active"
+}
+2025-12-24 13:33:41,700 [main] INFO  com.api.utils.Log - Endning test case testGetUser 
+2026-01-02 23:01:38,964 [main] INFO  com.api.utils.Log - Starting test case testCreateUser 
+2026-01-02 23:11:36,705 [main] INFO  com.api.utils.Log - Starting test case testCreateUser 
+2026-01-02 23:11:44,421 [main] INFO  com.api.utils.Log - Response of create user{
+    "id": 8316648,
+    "name": "Jemmy Doe",
+    "email": "jemmy.doe111@878gmail.com",
+    "gender": "male",
+    "status": "active"
+}
+2026-01-02 23:11:45,296 [main] INFO  com.api.utils.Log - Endning test case testCreateUser 
+2026-01-02 23:11:45,310 [main] INFO  com.api.utils.Log - Starting test case testCreateUser 
+2026-01-02 23:11:50,688 [main] INFO  com.api.utils.Log - Response of create user{
+    "id": 8316649,
+    "name": "Alisha Ray",
+    "email": "alisha.ray111@419gmail.com",
+    "gender": "female",
+    "status": "active"
+}
+2026-01-02 23:11:50,783 [main] INFO  com.api.utils.Log - Endning test case testCreateUser 
+2026-01-02 23:11:50,810 [main] INFO  com.api.utils.Log - Starting test case testCreateUser 
+2026-01-02 23:11:53,711 [main] INFO  com.api.utils.Log - Response of create user{
+    "id": 8316650,
+    "name": "John Test",
+    "email": "john.test111@824gmail.com",
+    "gender": "male",
+    "status": "inactive"
+}
+2026-01-02 23:11:53,792 [main] INFO  com.api.utils.Log - Endning test case testCreateUser 
+2026-01-02 23:11:53,811 [main] INFO  com.api.utils.Log - Starting test case testGetUser 
+2026-01-02 23:11:55,254 [main] INFO  com.api.utils.Log - Response of get user{
+    "id": 8316650,
+    "name": "John Test",
+    "email": "john.test111@824gmail.com",
+    "gender": "male",
+    "status": "inactive"
+}
+2026-01-02 23:11:55,278 [main] INFO  com.api.utils.Log - Endning test case testGetUser 
+2026-01-02 23:17:37,270 [main] INFO  com.api.utils.Log - Starting test case testCreateUser 
+2026-01-02 23:17:42,212 [main] INFO  com.api.utils.Log - Response of create user{
+    "id": 8316657,
+    "name": "Jack",
+    "email": "jack921@gmail.com",
+    "gender": "male",
+    "status": "active"
+}
+2026-01-02 23:17:42,972 [main] INFO  com.api.utils.Log - Endning test case testCreateUser 
+2026-01-02 23:17:42,994 [main] INFO  com.api.utils.Log - Starting test case testGetUser 
+2026-01-02 23:17:46,010 [main] INFO  com.api.utils.Log - Response of get user{
+    "id": 8316657,
+    "name": "Jack",
+    "email": "jack921@gmail.com",
+    "gender": "male",
+    "status": "active"
+}
+2026-01-02 23:17:46,034 [main] INFO  com.api.utils.Log - Endning test case testGetUser 
+2026-01-05 22:02:09,419 [main] INFO  com.api.utils.Log - Starting test case testCreateUser 
+2026-01-05 22:02:16,927 [main] INFO  com.api.utils.Log - Response of create user{
+    "id": 8319824,
+    "name": "Jack",
+    "email": "jack733@gmail.com",
+    "gender": "male",
+    "status": "active"
+}
+2026-01-05 22:02:17,682 [main] INFO  com.api.utils.Log - Endning test case testCreateUser 
+2026-01-05 22:02:17,726 [main] INFO  com.api.utils.Log - Starting test case testGetUser 
+2026-01-05 22:02:26,312 [main] INFO  com.api.utils.Log - Response of get user{
+    "id": 8319824,
+    "name": "Jack",
+    "email": "jack733@gmail.com",
+    "gender": "male",
+    "status": "active"
+}
+2026-01-05 22:02:26,360 [main] INFO  com.api.utils.Log - Endning test case testGetUser 
+2026-01-06 09:41:06,230 [main] INFO  com.api.utils.Log - Starting test case testCreateUser 
+2026-01-06 09:41:21,190 [main] INFO  com.api.utils.Log - Response of create user{
+    "id": 8320138,
+    "name": "Jemmy Doe",
+    "email": "jemmy.doe111813@gmail.com",
+    "gender": "male",
+    "status": "active"
+}
+2026-01-06 09:41:22,063 [main] INFO  com.api.utils.Log - Endning test case testCreateUser 
+2026-01-06 09:41:22,077 [main] INFO  com.api.utils.Log - Starting test case testCreateUser 
+2026-01-06 09:41:24,841 [main] INFO  com.api.utils.Log - Response of create user{
+    "id": 8320139,
+    "name": "Alisha Ray",
+    "email": "alisha.ray111965@gmail.com",
+    "gender": "female",
+    "status": "active"
+}
+2026-01-06 09:41:24,915 [main] INFO  com.api.utils.Log - Endning test case testCreateUser 
+2026-01-06 09:41:24,947 [main] INFO  com.api.utils.Log - Starting test case testCreateUser 
+2026-01-06 09:41:29,984 [main] INFO  com.api.utils.Log - Response of create user{
+    "id": 8320140,
+    "name": "John Test",
+    "email": "john.test111594@gmail.com",
+    "gender": "male",
+    "status": "inactive"
+}
+2026-01-06 09:41:30,034 [main] INFO  com.api.utils.Log - Endning test case testCreateUser 
+2026-01-10 14:08:09,158 [main] INFO  com.api.utils.Log - Starting test case testCreateUser 
+2026-01-10 14:08:15,841 [main] INFO  com.api.utils.Log - Response of create user{
+    "id": 8326472,
+    "name": "Jemmy Doe",
+    "email": "jemmy.doe111708@gmail.com",
+    "gender": "male",
+    "status": "active"
+}
+2026-01-10 14:08:16,701 [main] INFO  com.api.utils.Log - Endning test case testCreateUser 
+2026-01-10 14:08:16,720 [main] INFO  com.api.utils.Log - Starting test case testCreateUser 
+2026-01-10 14:08:21,943 [main] INFO  com.api.utils.Log - Response of create user{
+    "id": 8326473,
+    "name": "Alisha Ray",
+    "email": "alisha.ray111382@gmail.com",
+    "gender": "female",
+    "status": "active"
+}
+2026-01-10 14:08:22,019 [main] INFO  com.api.utils.Log - Endning test case testCreateUser 
+2026-01-10 14:08:22,044 [main] INFO  com.api.utils.Log - Starting test case testCreateUser 
+2026-01-10 14:08:23,981 [main] INFO  com.api.utils.Log - Response of create user{
+    "id": 8326474,
+    "name": "John Test",
+    "email": "john.test111886@gmail.com",
+    "gender": "male",
+    "status": "inactive"
+}
+2026-01-10 14:08:24,060 [main] INFO  com.api.utils.Log - Endning test case testCreateUser 
+2026-01-10 14:08:24,533 [main] INFO  com.api.utils.Log - Starting test case testCreateUser 
+2026-01-10 14:08:26,661 [main] INFO  com.api.utils.Log - Response of create user{
+    "id": 8326476,
+    "name": "Jack",
+    "email": "jack464@gmail.com",
+    "gender": "male",
+    "status": "active"
+}
+2026-01-10 14:08:26,742 [main] INFO  com.api.utils.Log - Endning test case testCreateUser 
+2026-01-10 14:08:26,752 [main] INFO  com.api.utils.Log - Starting test case testGetUser 
+2026-01-10 14:08:31,964 [main] INFO  com.api.utils.Log - Response of get user{
+    "id": 8326476,
+    "name": "Jack",
+    "email": "jack464@gmail.com",
+    "gender": "male",
+    "status": "active"
+}
+2026-01-10 14:08:31,986 [main] INFO  com.api.utils.Log - Endning test case testGetUser 
+2026-01-10 14:31:45,431 [main] INFO  com.api.utils.Log - Starting test case testCreateUser 
+2026-01-10 14:31:52,025 [main] INFO  com.api.utils.Log - Response of create user{
+    "id": 8326509,
+    "name": "Jemmy Doe",
+    "email": "jemmy.doe11166@gmail.com",
+    "gender": "male",
+    "status": "active"
+}
+2026-01-10 14:31:52,773 [main] INFO  com.api.utils.Log - Endning test case testCreateUser 
+2026-01-10 14:31:52,792 [main] INFO  com.api.utils.Log - Starting test case testCreateUser 
+2026-01-10 14:31:59,469 [main] INFO  com.api.utils.Log - Response of create user{
+    "id": 8326510,
+    "name": "Alisha Ray",
+    "email": "alisha.ray111356@gmail.com",
+    "gender": "female",
+    "status": "active"
+}
+2026-01-10 14:31:59,562 [main] INFO  com.api.utils.Log - Endning test case testCreateUser 
+2026-01-10 14:31:59,614 [main] INFO  com.api.utils.Log - Starting test case testCreateUser 
+2026-01-10 14:32:12,373 [main] INFO  com.api.utils.Log - Response of create user{
+    "id": 8326511,
+    "name": "John Test",
+    "email": "john.test111493@gmail.com",
+    "gender": "male",
+    "status": "inactive"
+}
+2026-01-10 14:32:12,446 [main] INFO  com.api.utils.Log - Endning test case testCreateUser 
+2026-01-10 14:34:00,825 [main] INFO  com.api.utils.Log - Starting test case testCreateUser 
+2026-01-10 14:34:05,583 [main] INFO  com.api.utils.Log - Response of create user{
+    "id": 8326514,
+    "name": "Jemmy Doe",
+    "email": "jemmy.doe111473@gmail.com",
+    "gender": "male",
+    "status": "active"
+}
+2026-01-10 14:34:06,427 [main] INFO  com.api.utils.Log - Endning test case testCreateUser 
+2026-01-10 14:34:06,440 [main] INFO  com.api.utils.Log - Starting test case testCreateUser 
+2026-01-10 14:34:08,457 [main] INFO  com.api.utils.Log - Response of create user{
+    "id": 8326515,
+    "name": "Alisha Ray",
+    "email": "alisha.ray11142@gmail.com",
+    "gender": "female",
+    "status": "active"
+}
+2026-01-10 14:34:08,568 [main] INFO  com.api.utils.Log - Endning test case testCreateUser 
+2026-01-10 14:34:08,578 [main] INFO  com.api.utils.Log - Starting test case testCreateUser 
+2026-01-10 14:35:46,592 [main] INFO  com.api.utils.Log - Starting test case testCreateUser 
+2026-01-10 14:35:51,540 [main] INFO  com.api.utils.Log - Response of create user{
+    "id": 8326518,
+    "name": "Jemmy Doe",
+    "email": "jemmy.doe111520@gmail.com",
+    "gender": "male",
+    "status": "active"
+}
+2026-01-10 14:35:52,289 [main] INFO  com.api.utils.Log - Endning test case testCreateUser 
+2026-01-10 14:35:52,309 [main] INFO  com.api.utils.Log - Starting test case testCreateUser 
+2026-01-10 14:35:56,648 [main] INFO  com.api.utils.Log - Response of create user{
+    "id": 8326519,
+    "name": "Alisha Ray",
+    "email": "alisha.ray111429@gmail.com",
+    "gender": "female",
+    "status": "active"
+}
+2026-01-10 14:35:56,764 [main] INFO  com.api.utils.Log - Endning test case testCreateUser 
+2026-01-10 14:35:56,777 [main] INFO  com.api.utils.Log - Starting test case testCreateUser 
+2026-01-10 14:36:24,177 [main] INFO  com.api.utils.Log - Response of create user{
+    "id": 8326520,
+    "name": "John Test",
+    "email": "john.test111714@gmail.com",
+    "gender": "male",
+    "status": "inactive"
+}
+2026-01-10 14:36:24,258 [main] INFO  com.api.utils.Log - Endning test case testCreateUser 
+2026-01-10 14:39:02,265 [main] INFO  com.api.utils.Log - Starting test case testCreateUser 
+2026-01-10 14:39:06,934 [main] INFO  com.api.utils.Log - Response of create user{
+    "id": 8326523,
+    "name": "Jemmy Doe",
+    "email": "jemmy.doe111850@gmail.com",
+    "gender": "male",
+    "status": "active"
+}
+2026-01-10 14:39:07,745 [main] INFO  com.api.utils.Log - Endning test case testCreateUser 
+2026-01-10 14:39:07,787 [main] INFO  com.api.utils.Log - Starting test case testCreateUser 
+2026-01-10 14:39:09,644 [main] INFO  com.api.utils.Log - Response of create user{
+    "id": 8326524,
+    "name": "Alisha Ray",
+    "email": "alisha.ray11116@gmail.com",
+    "gender": "female",
+    "status": "active"
+}
+2026-01-10 14:39:09,720 [main] INFO  com.api.utils.Log - Endning test case testCreateUser 
+2026-01-10 14:39:09,753 [main] INFO  com.api.utils.Log - Starting test case testCreateUser 
+2026-01-10 14:39:12,932 [main] INFO  com.api.utils.Log - Response of create user{
+    "id": 8326525,
+    "name": "John Test",
+    "email": "john.test111969@gmail.com",
+    "gender": "male",
+    "status": "inactive"
+}
+2026-01-10 14:39:13,000 [main] INFO  com.api.utils.Log - Endning test case testCreateUser 
+2026-01-10 14:40:49,299 [main] INFO  com.api.utils.Log - Starting test case testCreateUser 
+2026-01-10 14:40:57,199 [main] INFO  com.api.utils.Log - Response of create user{
+    "id": 8326527,
+    "name": "Jemmy Doe",
+    "email": "jemmy.doe111443@gmail.com",
+    "gender": "male",
+    "status": "active"
+}
+2026-01-10 14:40:57,967 [main] INFO  com.api.utils.Log - Endning test case testCreateUser 
+2026-01-10 14:40:57,987 [main] INFO  com.api.utils.Log - Starting test case testCreateUser 
+2026-01-10 14:41:02,832 [main] INFO  com.api.utils.Log - Response of create user{
+    "id": 8326528,
+    "name": "Alisha Ray",
+    "email": "alisha.ray111637@gmail.com",
+    "gender": "female",
+    "status": "active"
+}
+2026-01-10 14:41:02,903 [main] INFO  com.api.utils.Log - Endning test case testCreateUser 
+2026-01-10 14:41:02,916 [main] INFO  com.api.utils.Log - Starting test case testCreateUser 
+2026-01-10 14:41:05,895 [main] INFO  com.api.utils.Log - Response of create user{
+    "id": 8326529,
+    "name": "John Test",
+    "email": "john.test111881@gmail.com",
+    "gender": "male",
+    "status": "inactive"
+}
+2026-01-10 14:41:05,955 [main] INFO  com.api.utils.Log - Endning test case testCreateUser 
+2026-01-10 14:41:06,331 [main] INFO  com.api.utils.Log - Starting test case testCreateUser 
+2026-01-10 14:41:19,426 [main] INFO  com.api.utils.Log - Response of create user{
+    "id": 8326530,
+    "name": "Jack",
+    "email": "jack455@gmail.com",
+    "gender": "male",
+    "status": "active"
+}
+2026-01-10 14:41:19,509 [main] INFO  com.api.utils.Log - Endning test case testCreateUser 
+2026-01-10 14:41:19,522 [main] INFO  com.api.utils.Log - Starting test case testGetUser 
+2026-01-10 14:41:23,817 [main] INFO  com.api.utils.Log - Response of get user{
+    "id": 8326530,
+    "name": "Jack",
+    "email": "jack455@gmail.com",
+    "gender": "male",
+    "status": "active"
+}
+2026-01-10 14:41:23,855 [main] INFO  com.api.utils.Log - Endning test case testGetUser 
+2026-01-10 14:42:39,415 [main] INFO  com.api.utils.Log - Starting test case testCreateUser 
+2026-01-10 14:43:53,635 [main] INFO  com.api.utils.Log - Starting test case testCreateUser 
+2026-01-10 14:43:59,033 [main] INFO  com.api.utils.Log - Response of create user{
+    "id": 8326534,
+    "name": "Jemmy Doe",
+    "email": "jemmy.doe111440@gmail.com",
+    "gender": "male",
+    "status": "active"
+}
+2026-01-10 14:43:59,801 [main] INFO  com.api.utils.Log - Endning test case testCreateUser 
+2026-01-10 14:43:59,819 [main] INFO  com.api.utils.Log - Starting test case testCreateUser 
+2026-01-10 14:44:06,635 [main] INFO  com.api.utils.Log - Response of create user{
+    "id": 8326535,
+    "name": "Alisha Ray",
+    "email": "alisha.ray111736@gmail.com",
+    "gender": "female",
+    "status": "active"
+}
+2026-01-10 14:44:06,727 [main] INFO  com.api.utils.Log - Endning test case testCreateUser 
+2026-01-10 14:44:06,753 [main] INFO  com.api.utils.Log - Starting test case testCreateUser 
+2026-01-10 14:44:12,885 [main] INFO  com.api.utils.Log - Response of create user{
+    "id": 8326536,
+    "name": "John Test",
+    "email": "john.test111329@gmail.com",
+    "gender": "male",
+    "status": "inactive"
+}
+2026-01-10 14:44:12,934 [main] INFO  com.api.utils.Log - Endning test case testCreateUser 
+2026-01-10 15:53:14,733 [main] INFO  com.api.utils.Log - Starting test case testCreateUser 
+2026-01-10 15:53:26,813 [main] INFO  com.api.utils.Log - Response of create user{
+    "id": 8326550,
+    "name": "Jemmy Doe",
+    "email": "jemmy.doe111264@gmail.com",
+    "gender": "male",
+    "status": "active"
+}
+2026-01-10 15:53:27,630 [main] INFO  com.api.utils.Log - Endning test case testCreateUser 
+2026-01-10 15:53:27,652 [main] INFO  com.api.utils.Log - Starting test case testCreateUser 
+2026-01-10 15:53:34,600 [main] INFO  com.api.utils.Log - Response of create user{
+    "id": 8326551,
+    "name": "Alisha Ray",
+    "email": "alisha.ray111882@gmail.com",
+    "gender": "female",
+    "status": "active"
+}
+2026-01-10 15:53:34,703 [main] INFO  com.api.utils.Log - Endning test case testCreateUser 
+2026-01-10 15:53:34,712 [main] INFO  com.api.utils.Log - Starting test case testCreateUser 
+2026-01-10 15:53:48,771 [main] INFO  com.api.utils.Log - Response of create user{
+    "id": 8326552,
+    "name": "John Test",
+    "email": "john.test111485@gmail.com",
+    "gender": "male",
+    "status": "inactive"
+}
+2026-01-10 15:53:48,849 [main] INFO  com.api.utils.Log - Endning test case testCreateUser 
+2026-01-10 15:53:49,249 [main] INFO  com.api.utils.Log - Starting test case testCreateUser 
+2026-01-10 15:54:01,102 [main] INFO  com.api.utils.Log - Response of create user{
+    "id": 8326553,
+    "name": "Jack",
+    "email": "jack7@gmail.com",
+    "gender": "male",
+    "status": "active"
+}
+2026-01-10 15:54:01,173 [main] INFO  com.api.utils.Log - Endning test case testCreateUser 
+2026-01-10 15:54:01,184 [main] INFO  com.api.utils.Log - Starting test case testGetUser 
+2026-01-10 15:55:14,414 [main] INFO  com.api.utils.Log - Response of get user{
+    "id": 8326553,
+    "name": "Jack",
+    "email": "jack7@gmail.com",
+    "gender": "male",
+    "status": "active"
+}
+2026-01-10 15:55:14,444 [main] INFO  com.api.utils.Log - Endning test case testGetUser 
+2026-01-10 15:58:01,436 [main] INFO  com.api.utils.Log - Starting test case testCreateUser 
+2026-01-10 15:58:16,706 [main] INFO  com.api.utils.Log - Response of create user{
+    "id": 8326557,
+    "name": "Jemmy Doe",
+    "email": "jemmy.doe111852@gmail.com",
+    "gender": "male",
+    "status": "active"
+}
+2026-01-10 15:58:17,495 [main] INFO  com.api.utils.Log - Endning test case testCreateUser 
+2026-01-10 15:58:17,520 [main] INFO  com.api.utils.Log - Starting test case testCreateUser 
+2026-01-10 15:58:19,249 [main] INFO  com.api.utils.Log - Response of create user{
+    "id": 8326558,
+    "name": "Alisha Ray",
+    "email": "alisha.ray111168@gmail.com",
+    "gender": "female",
+    "status": "active"
+}
+2026-01-10 15:58:19,332 [main] INFO  com.api.utils.Log - Endning test case testCreateUser 
+2026-01-10 15:58:19,345 [main] INFO  com.api.utils.Log - Starting test case testCreateUser 
+2026-01-10 15:58:34,682 [main] INFO  com.api.utils.Log - Response of create user{
+    "id": 8326559,
+    "name": "John Test",
+    "email": "john.test111681@gmail.com",
+    "gender": "male",
+    "status": "inactive"
+}
+2026-01-10 15:58:34,754 [main] INFO  com.api.utils.Log - Endning test case testCreateUser 
+2026-01-10 15:58:35,172 [main] INFO  com.api.utils.Log - Starting test case testCreateUser 
+2026-01-10 16:04:41,046 [main] INFO  com.api.utils.Log - Starting test case testCreateUser 
+2026-01-10 16:04:45,793 [main] INFO  com.api.utils.Log - Response of create user{
+    "id": 8326560,
+    "name": "Jemmy Doe",
+    "email": "jemmy.doe111287@gmail.com",
+    "gender": "male",
+    "status": "active"
+}
+2026-01-10 16:04:46,549 [main] INFO  com.api.utils.Log - Endning test case testCreateUser 
+2026-01-10 16:04:46,564 [main] INFO  com.api.utils.Log - Starting test case testCreateUser 
+2026-01-10 16:04:54,716 [main] INFO  com.api.utils.Log - Response of create user{
+    "id": 8326561,
+    "name": "Alisha Ray",
+    "email": "alisha.ray11184@gmail.com",
+    "gender": "female",
+    "status": "active"
+}
+2026-01-10 16:04:54,798 [main] INFO  com.api.utils.Log - Endning test case testCreateUser 
+2026-01-10 16:04:54,807 [main] INFO  com.api.utils.Log - Starting test case testCreateUser 
+2026-01-10 16:04:57,324 [main] INFO  com.api.utils.Log - Response of create user{
+    "id": 8326562,
+    "name": "John Test",
+    "email": "john.test111908@gmail.com",
+    "gender": "male",
+    "status": "inactive"
+}
+2026-01-10 16:04:57,381 [main] INFO  com.api.utils.Log - Endning test case testCreateUser 
+2026-01-10 16:04:57,760 [main] INFO  com.api.utils.Log - Starting test case testCreateUser 
+2026-01-10 16:05:01,989 [main] INFO  com.api.utils.Log - Response of create user{
+    "id": 8326563,
+    "name": "Jack",
+    "email": "jack932@gmail.com",
+    "gender": "male",
+    "status": "active"
+}
+2026-01-10 16:05:02,065 [main] INFO  com.api.utils.Log - Endning test case testCreateUser 
+2026-01-10 16:05:02,079 [main] INFO  com.api.utils.Log - Starting test case testGetUser 
+2026-01-10 16:05:04,750 [main] INFO  com.api.utils.Log - Response of get user{
+    "id": 8326563,
+    "name": "Jack",
+    "email": "jack932@gmail.com",
+    "gender": "male",
+    "status": "active"
+}
+2026-01-10 16:05:04,782 [main] INFO  com.api.utils.Log - Endning test case testGetUser 
+2026-01-10 16:42:56,412 [main] INFO  com.api.utils.Log - Starting test case testCreateUser 
+2026-01-10 16:43:04,429 [main] INFO  com.api.utils.Log - Response of create user{
+    "id": 8326584,
+    "name": "Jemmy Doe",
+    "email": "jemmy.doe111626@gmail.com",
+    "gender": "male",
+    "status": "active"
+}
+2026-01-10 16:43:05,191 [main] INFO  com.api.utils.Log - Endning test case testCreateUser 
+2026-01-10 16:43:05,220 [main] INFO  com.api.utils.Log - Starting test case testCreateUser 
+2026-01-10 16:43:13,009 [main] INFO  com.api.utils.Log - Response of create user{
+    "id": 8326585,
+    "name": "Alisha Ray",
+    "email": "alisha.ray11168@gmail.com",
+    "gender": "female",
+    "status": "active"
+}
+2026-01-10 16:43:13,076 [main] INFO  com.api.utils.Log - Endning test case testCreateUser 
+2026-01-10 16:43:13,105 [main] INFO  com.api.utils.Log - Starting test case testCreateUser 
+2026-01-10 16:43:17,202 [main] INFO  com.api.utils.Log - Response of create user{
+    "id": 8326586,
+    "name": "John Test",
+    "email": "john.test11142@gmail.com",
+    "gender": "male",
+    "status": "inactive"
+}
+2026-01-10 16:43:17,267 [main] INFO  com.api.utils.Log - Endning test case testCreateUser 
+2026-01-10 16:43:17,723 [main] INFO  com.api.utils.Log - Starting test case testCreateUser 
+2026-01-10 16:43:21,920 [main] INFO  com.api.utils.Log - Response of create user{
+    "id": 8326587,
+    "name": "Jack",
+    "email": "jack508@gmail.com",
+    "gender": "male",
+    "status": "active"
+}
+2026-01-10 16:43:21,986 [main] INFO  com.api.utils.Log - Endning test case testCreateUser 
+2026-01-10 16:43:22,000 [main] INFO  com.api.utils.Log - Starting test case testGetUser 
+2026-01-10 16:43:24,888 [main] INFO  com.api.utils.Log - Response of get user{
+    "id": 8326587,
+    "name": "Jack",
+    "email": "jack508@gmail.com",
+    "gender": "male",
+    "status": "active"
+}
+2026-01-10 16:43:24,918 [main] INFO  com.api.utils.Log - Endning test case testGetUser 
+2026-01-10 16:52:46,507 [main] INFO  com.api.utils.Log - Starting test case testCreateUser 
+2026-01-10 16:52:53,321 [main] INFO  com.api.utils.Log - Response of create user{
+    "id": 8326591,
+    "name": "Jemmy Doe",
+    "email": "jemmy.doe111206@gmail.com",
+    "gender": "male",
+    "status": "active"
+}
+2026-01-10 16:52:54,129 [main] INFO  com.api.utils.Log - Endning test case testCreateUser 
+2026-01-10 16:52:54,137 [main] INFO  com.api.utils.Log - Starting test case testCreateUser 
+2026-01-10 16:52:56,080 [main] INFO  com.api.utils.Log - Response of create user{
+    "id": 8326592,
+    "name": "Alisha Ray",
+    "email": "alisha.ray111169@gmail.com",
+    "gender": "female",
+    "status": "active"
+}
+2026-01-10 16:52:56,157 [main] INFO  com.api.utils.Log - Endning test case testCreateUser 
+2026-01-10 16:52:56,162 [main] INFO  com.api.utils.Log - Starting test case testCreateUser 
+2026-01-10 16:53:05,867 [main] INFO  com.api.utils.Log - Response of create user{
+    "id": 8326593,
+    "name": "John Test",
+    "email": "john.test111689@gmail.com",
+    "gender": "male",
+    "status": "inactive"
+}
+2026-01-10 16:53:05,913 [main] INFO  com.api.utils.Log - Endning test case testCreateUser 
+2026-01-10 16:53:06,309 [main] INFO  com.api.utils.Log - Starting test case testCreateUser 
+2026-01-10 16:53:19,843 [main] INFO  com.api.utils.Log - Response of create user{
+    "id": 8326594,
+    "name": "Jack",
+    "email": "jack82@gmail.com",
+    "gender": "male",
+    "status": "active"
+}
+2026-01-10 16:53:19,923 [main] INFO  com.api.utils.Log - Endning test case testCreateUser 
+2026-01-10 16:53:19,932 [main] INFO  com.api.utils.Log - Starting test case testGetUser 
+2026-01-10 16:53:21,473 [main] INFO  com.api.utils.Log - Response of get user{
+    "id": 8326594,
+    "name": "Jack",
+    "email": "jack82@gmail.com",
+    "gender": "male",
+    "status": "active"
+}
+2026-01-10 16:53:21,501 [main] INFO  com.api.utils.Log - Endning test case testGetUser 
+2026-01-10 16:54:31,340 [main] INFO  com.api.utils.Log - Starting test case testCreateUser 
+2026-01-10 16:54:39,111 [main] INFO  com.api.utils.Log - Response of create user{
+    "id": 8326598,
+    "name": "Jemmy Doe",
+    "email": "jemmy.doe111777@gmail.com",
+    "gender": "male",
+    "status": "active"
+}
+2026-01-10 16:54:39,886 [main] INFO  com.api.utils.Log - Endning test case testCreateUser 
+2026-01-10 16:54:39,920 [main] INFO  com.api.utils.Log - Starting test case testCreateUser 
+2026-01-10 16:54:53,841 [main] INFO  com.api.utils.Log - Response of create user{
+    "id": 8326600,
+    "name": "Alisha Ray",
+    "email": "alisha.ray111533@gmail.com",
+    "gender": "female",
+    "status": "active"
+}
+2026-01-10 16:54:53,922 [main] INFO  com.api.utils.Log - Endning test case testCreateUser 
+2026-01-10 16:54:53,936 [main] INFO  com.api.utils.Log - Starting test case testCreateUser 
+2026-01-10 16:54:57,229 [main] INFO  com.api.utils.Log - Response of create user{
+    "id": 8326601,
+    "name": "John Test",
+    "email": "john.test111323@gmail.com",
+    "gender": "male",
+    "status": "inactive"
+}
+2026-01-10 16:54:57,295 [main] INFO  com.api.utils.Log - Endning test case testCreateUser 
+2026-01-10 16:54:57,676 [main] INFO  com.api.utils.Log - Starting test case testCreateUser 
+2026-01-10 16:54:59,684 [main] INFO  com.api.utils.Log - Response of create user{
+    "id": 8326602,
+    "name": "Jack",
+    "email": "jack754@gmail.com",
+    "gender": "male",
+    "status": "active"
+}
+2026-01-10 16:54:59,754 [main] INFO  com.api.utils.Log - Endning test case testCreateUser 
+2026-01-10 16:54:59,763 [main] INFO  com.api.utils.Log - Starting test case testGetUser 
+2026-01-10 16:55:05,312 [main] INFO  com.api.utils.Log - Response of get user{
+    "id": 8326602,
+    "name": "Jack",
+    "email": "jack754@gmail.com",
+    "gender": "male",
+    "status": "active"
+}
+2026-01-10 16:55:05,346 [main] INFO  com.api.utils.Log - Endning test case testGetUser 
+2026-01-19 22:07:37,306 [main] INFO  com.api.utils.Log - Starting test case testCreateUser 
+2026-01-19 22:07:45,672 [main] INFO  com.api.utils.Log - Response of create user{
+    "id": 8337383,
+    "name": "Jemmy Doe",
+    "email": "jemmy.doe111540@gmail.com",
+    "gender": "male",
+    "status": "active"
+}
+2026-01-19 22:07:46,537 [main] INFO  com.api.utils.Log - Endning test case testCreateUser 
+2026-01-19 22:07:46,553 [main] INFO  com.api.utils.Log - Starting test case testCreateUser 
+2026-01-19 22:07:49,609 [main] INFO  com.api.utils.Log - Response of create user{
+    "id": 8337384,
+    "name": "Alisha Ray",
+    "email": "alisha.ray111753@gmail.com",
+    "gender": "female",
+    "status": "active"
+}
+2026-01-19 22:07:49,672 [main] INFO  com.api.utils.Log - Endning test case testCreateUser 
+2026-01-19 22:07:49,684 [main] INFO  com.api.utils.Log - Starting test case testCreateUser 
+2026-01-19 22:07:58,971 [main] INFO  com.api.utils.Log - Response of create user{
+    "id": 8337385,
+    "name": "John Test",
+    "email": "john.test11178@gmail.com",
+    "gender": "male",
+    "status": "inactive"
+}
+2026-01-19 22:07:59,026 [main] INFO  com.api.utils.Log - Endning test case testCreateUser 
+2026-01-19 22:07:59,466 [main] INFO  com.api.utils.Log - Starting test case testCreateUser 
+2026-01-19 22:08:12,346 [main] INFO  com.api.utils.Log - Response of create user{
+    "id": 8337387,
+    "name": "Jack",
+    "email": "jack716@gmail.com",
+    "gender": "male",
+    "status": "active"
+}
+2026-01-19 22:08:12,383 [main] INFO  com.api.utils.Log - Endning test case testCreateUser 
+2026-01-19 22:08:12,387 [main] INFO  com.api.utils.Log - Starting test case testGetUser 
+2026-01-19 22:08:13,815 [main] INFO  com.api.utils.Log - Response of get user{
+    "id": 8337387,
+    "name": "Jack",
+    "email": "jack716@gmail.com",
+    "gender": "male",
+    "status": "active"
+}
+2026-01-19 22:08:13,833 [main] INFO  com.api.utils.Log - Endning test case testGetUser 
+2026-01-19 22:30:39,709 [main] INFO  com.api.utils.Log - Starting test case testCreateUser 
+2026-01-19 22:30:44,465 [main] INFO  com.api.utils.Log - Response of create user{
+    "id": 8337422,
+    "name": "Jemmy Doe",
+    "email": "jemmy.doe111626@gmail.com",
+    "gender": "male",
+    "status": "active"
+}
+2026-01-19 22:30:45,250 [main] INFO  com.api.utils.Log - Endning test case testCreateUser 
+2026-01-19 22:30:45,269 [main] INFO  com.api.utils.Log - Starting test case testCreateUser 
+2026-01-19 22:30:46,893 [main] INFO  com.api.utils.Log - Response of create user{
+    "id": 8337423,
+    "name": "Alisha Ray",
+    "email": "alisha.ray111783@gmail.com",
+    "gender": "female",
+    "status": "active"
+}
+2026-01-19 22:30:46,984 [main] INFO  com.api.utils.Log - Endning test case testCreateUser 
+2026-01-19 22:30:46,989 [main] INFO  com.api.utils.Log - Starting test case testCreateUser 
+2026-01-19 22:30:49,069 [main] INFO  com.api.utils.Log - Response of create user{
+    "id": 8337424,
+    "name": "John Test",
+    "email": "john.test111825@gmail.com",
+    "gender": "male",
+    "status": "inactive"
+}
+2026-01-19 22:30:49,130 [main] INFO  com.api.utils.Log - Endning test case testCreateUser 
+2026-01-19 22:30:49,478 [main] INFO  com.api.utils.Log - Starting test case testCreateUser 
+2026-01-19 22:30:51,519 [main] INFO  com.api.utils.Log - Response of create user{
+    "id": 8337425,
+    "name": "Jack",
+    "email": "jack174@gmail.com",
+    "gender": "male",
+    "status": "active"
+}
+2026-01-19 22:30:51,587 [main] INFO  com.api.utils.Log - Endning test case testCreateUser 
+2026-01-19 22:30:51,606 [main] INFO  com.api.utils.Log - Starting test case testGetUser 
+2026-01-19 22:32:45,779 [main] INFO  com.api.utils.Log - Starting test case testCreateUser 
+2026-01-19 22:37:36,755 [main] INFO  com.api.utils.Log - Starting test case testCreateUser 
+2026-01-19 22:37:41,129 [main] INFO  com.api.utils.Log - Response of create user{
+    "id": 8337433,
+    "name": "Jemmy Doe",
+    "email": "jemmy.doe111595@gmail.com",
+    "gender": "male",
+    "status": "active"
+}
+2026-01-19 22:37:41,882 [main] INFO  com.api.utils.Log - Endning test case testCreateUser 
+2026-01-19 22:37:41,891 [main] INFO  com.api.utils.Log - Starting test case testCreateUser 
+2026-01-19 22:37:48,504 [main] INFO  com.api.utils.Log - Response of create user{
+    "id": 8337434,
+    "name": "Alisha Ray",
+    "email": "alisha.ray111512@gmail.com",
+    "gender": "female",
+    "status": "active"
+}
+2026-01-19 22:37:48,567 [main] INFO  com.api.utils.Log - Endning test case testCreateUser 
+2026-01-19 22:37:48,571 [main] INFO  com.api.utils.Log - Starting test case testCreateUser 
+2026-01-19 22:37:49,931 [main] INFO  com.api.utils.Log - Response of create user{
+    "id": 8337435,
+    "name": "John Test",
+    "email": "john.test111485@gmail.com",
+    "gender": "male",
+    "status": "inactive"
+}
+2026-01-19 22:37:49,988 [main] INFO  com.api.utils.Log - Endning test case testCreateUser 
+2026-01-19 22:37:50,376 [main] INFO  com.api.utils.Log - Starting test case testCreateUser 
+2026-01-19 22:37:54,337 [main] INFO  com.api.utils.Log - Response of create user{
+    "id": 8337436,
+    "name": "Jack",
+    "email": "jack653@gmail.com",
+    "gender": "male",
+    "status": "active"
+}
+2026-01-19 22:37:54,399 [main] INFO  com.api.utils.Log - Endning test case testCreateUser 
+2026-01-19 22:37:54,405 [main] INFO  com.api.utils.Log - Starting test case testGetUser 
+2026-01-19 22:40:43,874 [main] INFO  com.api.utils.Log - Starting test case testCreateUser 
+2026-01-19 22:40:48,175 [main] INFO  com.api.utils.Log - Response of create user{
+    "id": 8337438,
+    "name": "Jemmy Doe",
+    "email": "jemmy.doe111633@gmail.com",
+    "gender": "male",
+    "status": "active"
+}
+2026-01-19 22:40:48,989 [main] INFO  com.api.utils.Log - Endning test case testCreateUser 
+2026-01-19 22:40:48,998 [main] INFO  com.api.utils.Log - Starting test case testCreateUser 
+2026-01-19 22:40:58,702 [main] INFO  com.api.utils.Log - Response of create user{
+    "id": 8337439,
+    "name": "Alisha Ray",
+    "email": "alisha.ray111696@gmail.com",
+    "gender": "female",
+    "status": "active"
+}
+2026-01-19 22:40:58,772 [main] INFO  com.api.utils.Log - Endning test case testCreateUser 
+2026-01-19 22:40:58,787 [main] INFO  com.api.utils.Log - Starting test case testCreateUser 
+2026-01-19 22:41:01,428 [main] INFO  com.api.utils.Log - Response of create user{
+    "id": 8337440,
+    "name": "John Test",
+    "email": "john.test111838@gmail.com",
+    "gender": "male",
+    "status": "inactive"
+}
+2026-01-19 22:41:01,518 [main] INFO  com.api.utils.Log - Endning test case testCreateUser 
+2026-01-19 22:41:01,921 [main] INFO  com.api.utils.Log - Starting test case testCreateUser 
+2026-01-19 22:41:05,245 [main] INFO  com.api.utils.Log - Response of create user{
+    "id": 8337441,
+    "name": "Jack",
+    "email": "jack896@gmail.com",
+    "gender": "male",
+    "status": "active"
+}
+2026-01-19 22:41:05,294 [main] INFO  com.api.utils.Log - Endning test case testCreateUser 
+2026-01-19 22:41:05,304 [main] INFO  com.api.utils.Log - Starting test case testGetUser 
+2026-01-19 22:41:07,594 [main] INFO  com.api.utils.Log - Response of get user{
+    "id": 8337441,
+    "name": "Jack",
+    "email": "jack896@gmail.com",
+    "gender": "male",
+    "status": "active"
+}
+2026-01-19 22:41:07,615 [main] INFO  com.api.utils.Log - Endning test case testGetUser 
+2026-01-19 22:54:00,488 [main] INFO  com.api.utils.Log - Response of get user{
+    "id": 8337436,
+    "name": "Jack",
+    "email": "jack653@gmail.com",
+    "gender": "male",
+    "status": "active"
+}
+2026-01-19 22:54:00,499 [main] INFO  com.api.utils.Log - Endning test case testGetUser 
+2026-01-30 21:55:38,882 [main] INFO  com.api.utils.Log - Starting test case testCreateUser 
+2026-01-30 21:55:41,692 [main] INFO  com.api.utils.Log - Response of create user{
+    "id": 8351803,
+    "name": "Jemmy Doe",
+    "email": "jemmy.doe111772@gmail.com",
+    "gender": "male",
+    "status": "active"
+}
+2026-01-30 21:55:42,575 [main] INFO  com.api.utils.Log - Endning test case testCreateUser 
+2026-01-30 21:55:42,594 [main] INFO  com.api.utils.Log - Starting test case testCreateUser 
+2026-01-30 21:55:42,846 [main] INFO  com.api.utils.Log - Response of create user{
+    "id": 8351804,
+    "name": "Alisha Ray",
+    "email": "alisha.ray111124@gmail.com",
+    "gender": "female",
+    "status": "active"
+}
+2026-01-30 21:55:42,927 [main] INFO  com.api.utils.Log - Endning test case testCreateUser 
+2026-01-30 21:55:42,932 [main] INFO  com.api.utils.Log - Starting test case testCreateUser 
+2026-01-30 21:55:43,136 [main] INFO  com.api.utils.Log - Response of create user{
+    "id": 8351805,
+    "name": "John Test",
+    "email": "john.test111674@gmail.com",
+    "gender": "male",
+    "status": "inactive"
+}
+2026-01-30 21:55:43,189 [main] INFO  com.api.utils.Log - Endning test case testCreateUser 
+2026-01-30 21:55:43,577 [main] INFO  com.api.utils.Log - Starting test case testCreateUser 
+2026-01-30 21:55:43,773 [main] INFO  com.api.utils.Log - Response of create user{
+    "id": 8351806,
+    "name": "Jack",
+    "email": "jack234@gmail.com",
+    "gender": "male",
+    "status": "active"
+}
+2026-01-30 21:55:43,820 [main] INFO  com.api.utils.Log - Endning test case testCreateUser 
+2026-01-30 21:55:43,828 [main] INFO  com.api.utils.Log - Starting test case testGetUser 
+2026-01-30 21:55:44,037 [main] INFO  com.api.utils.Log - Response of get user{
+    "id": 8351806,
+    "name": "Jack",
+    "email": "jack234@gmail.com",
+    "gender": "male",
+    "status": "active"
+}
+2026-01-30 21:55:44,056 [main] INFO  com.api.utils.Log - Endning test case testGetUser 
+2026-01-30 22:10:04,264 [main] INFO  com.api.utils.Log - Starting test case testCreateUser 
+2026-01-30 22:10:07,201 [main] INFO  com.api.utils.Log - Response of create user{
+    "id": 8351864,
+    "name": "Jemmy Doe",
+    "email": "jemmy.doe111265@gmail.com",
+    "gender": "male",
+    "status": "active"
+}
+2026-01-30 22:10:08,044 [main] INFO  com.api.utils.Log - Endning test case testCreateUser 
+2026-01-30 22:10:08,059 [main] INFO  com.api.utils.Log - Starting test case testCreateUser 
+2026-01-30 22:10:08,278 [main] INFO  com.api.utils.Log - Response of create user{
+    "id": 8351865,
+    "name": "Alisha Ray",
+    "email": "alisha.ray111626@gmail.com",
+    "gender": "female",
+    "status": "active"
+}
+2026-01-30 22:10:08,356 [main] INFO  com.api.utils.Log - Endning test case testCreateUser 
+2026-01-30 22:10:08,365 [main] INFO  com.api.utils.Log - Starting test case testCreateUser 
+2026-01-30 22:10:08,570 [main] INFO  com.api.utils.Log - Response of create user{
+    "id": 8351866,
+    "name": "John Test",
+    "email": "john.test111578@gmail.com",
+    "gender": "male",
+    "status": "inactive"
+}
+2026-01-30 22:10:08,644 [main] INFO  com.api.utils.Log - Endning test case testCreateUser 
+2026-01-30 22:10:09,079 [main] INFO  com.api.utils.Log - Starting test case testCreateUser 
+2026-01-30 22:10:09,314 [main] INFO  com.api.utils.Log - Response of create user{
+    "id": 8351867,
+    "name": "Jack",
+    "email": "jack293@gmail.com",
+    "gender": "male",
+    "status": "active"
+}
+2026-01-30 22:10:09,379 [main] INFO  com.api.utils.Log - Endning test case testCreateUser 
+2026-01-30 22:10:09,387 [main] INFO  com.api.utils.Log - Starting test case testGetUser 
+2026-01-30 22:10:09,603 [main] INFO  com.api.utils.Log - Response of get user{
+    "id": 8351867,
+    "name": "Jack",
+    "email": "jack293@gmail.com",
+    "gender": "male",
+    "status": "active"
+}
+2026-01-30 22:10:09,622 [main] INFO  com.api.utils.Log - Endning test case testGetUser 
+2026-01-30 22:23:37,641 [main] INFO  com.api.utils.Log - Starting test case testCreateUser 
+2026-01-30 22:23:40,321 [main] INFO  com.api.utils.Log - Response of create user{
+    "id": 8351880,
+    "name": "Jemmy Doe",
+    "email": "jemmy.doe111295@gmail.com",
+    "gender": "male",
+    "status": "active"
+}
+2026-01-30 22:23:41,110 [main] INFO  com.api.utils.Log - Endning test case testCreateUser 
+2026-01-30 22:23:41,122 [main] INFO  com.api.utils.Log - Starting test case testCreateUser 
+2026-01-30 22:23:41,374 [main] INFO  com.api.utils.Log - Response of create user{
+    "id": 8351881,
+    "name": "Alisha Ray",
+    "email": "alisha.ray111453@gmail.com",
+    "gender": "female",
+    "status": "active"
+}
+2026-01-30 22:23:41,467 [main] INFO  com.api.utils.Log - Endning test case testCreateUser 
+2026-01-30 22:23:41,474 [main] INFO  com.api.utils.Log - Starting test case testCreateUser 
+2026-01-30 22:23:41,701 [main] INFO  com.api.utils.Log - Response of create user{
+    "id": 8351882,
+    "name": "John Test",
+    "email": "john.test111446@gmail.com",
+    "gender": "male",
+    "status": "inactive"
+}
+2026-01-30 22:23:41,762 [main] INFO  com.api.utils.Log - Endning test case testCreateUser 
+2026-01-30 22:23:41,773 [main] INFO  com.api.utils.Log - Starting test case testCreateUser 
+2026-01-30 22:23:41,987 [main] INFO  com.api.utils.Log - Response of create user{
+    "id": 8351883,
+    "name": "Jack",
+    "email": "jack176@gmail.com",
+    "gender": "male",
+    "status": "active"
+}
+2026-01-30 22:23:42,053 [main] INFO  com.api.utils.Log - Endning test case testCreateUser 
+2026-01-30 22:23:42,062 [main] INFO  com.api.utils.Log - Starting test case testGetUser 
+2026-01-30 22:23:42,268 [main] INFO  com.api.utils.Log - Response of get user{
+    "id": 8351883,
+    "name": "Jack",
+    "email": "jack176@gmail.com",
+    "gender": "male",
+    "status": "active"
+}
+2026-01-30 22:23:42,292 [main] INFO  com.api.utils.Log - Endning test case testGetUser 
+2026-01-30 22:52:52,335 [main] INFO  com.api.utils.Log - Starting test case testCreateUser 
+2026-01-30 22:52:55,035 [main] INFO  com.api.utils.Log - Response of create user{
+    "id": 8351904,
+    "name": "Jemmy Doe",
+    "email": "jemmy.doe111503@gmail.com",
+    "gender": "male",
+    "status": "active"
+}
+2026-01-30 22:52:55,771 [main] INFO  com.api.utils.Log - Endning test case testCreateUser 
+2026-01-30 22:52:55,788 [main] INFO  com.api.utils.Log - Starting test case testCreateUser 
+2026-01-30 22:52:56,034 [main] INFO  com.api.utils.Log - Response of create user{
+    "id": 8351905,
+    "name": "Alisha Ray",
+    "email": "alisha.ray111439@gmail.com",
+    "gender": "female",
+    "status": "active"
+}
+2026-01-30 22:52:56,083 [main] INFO  com.api.utils.Log - Endning test case testCreateUser 
+2026-01-30 22:52:56,088 [main] INFO  com.api.utils.Log - Starting test case testCreateUser 
+2026-01-30 22:52:56,310 [main] INFO  com.api.utils.Log - Response of create user{
+    "id": 8351906,
+    "name": "John Test",
+    "email": "john.test111530@gmail.com",
+    "gender": "male",
+    "status": "inactive"
+}
+2026-01-30 22:52:56,393 [main] INFO  com.api.utils.Log - Endning test case testCreateUser 
+2026-01-30 22:52:56,404 [main] INFO  com.api.utils.Log - Starting test case testCreateUser 
+2026-01-30 22:52:56,623 [main] INFO  com.api.utils.Log - Response of create user{
+    "id": 8351907,
+    "name": "Jack",
+    "email": "jack542@gmail.com",
+    "gender": "male",
+    "status": "active"
+}
+2026-01-30 22:52:56,696 [main] INFO  com.api.utils.Log - Endning test case testCreateUser 
+2026-01-30 22:52:56,702 [main] INFO  com.api.utils.Log - Starting test case testGetUser 
+2026-01-30 22:52:56,913 [main] INFO  com.api.utils.Log - Response of get user{
+    "id": 8351907,
+    "name": "Jack",
+    "email": "jack542@gmail.com",
+    "gender": "male",
+    "status": "active"
+}
+2026-01-30 22:52:56,957 [main] INFO  com.api.utils.Log - Endning test case testGetUser 
+2026-01-30 23:05:12,097 [main] INFO  com.api.utils.Log - Starting test case testCreateUser 
+2026-01-30 23:05:14,700 [main] INFO  com.api.utils.Log - Response of create user{
+    "id": 8351918,
+    "name": "Jemmy Doe",
+    "email": "jemmy.doe111647@gmail.com",
+    "gender": "male",
+    "status": "active"
+}
+2026-01-30 23:05:15,529 [main] INFO  com.api.utils.Log - Endning test case testCreateUser 
+2026-01-30 23:05:15,551 [main] INFO  com.api.utils.Log - Starting test case testCreateUser 
+2026-01-30 23:05:15,791 [main] INFO  com.api.utils.Log - Response of create user{
+    "id": 8351919,
+    "name": "Alisha Ray",
+    "email": "alisha.ray111791@gmail.com",
+    "gender": "female",
+    "status": "active"
+}
+2026-01-30 23:05:15,884 [main] INFO  com.api.utils.Log - Endning test case testCreateUser 
+2026-01-30 23:05:15,890 [main] INFO  com.api.utils.Log - Starting test case testCreateUser 
+2026-01-30 23:05:16,097 [main] INFO  com.api.utils.Log - Response of create user{
+    "id": 8351920,
+    "name": "John Test",
+    "email": "john.test111378@gmail.com",
+    "gender": "male",
+    "status": "inactive"
+}
+2026-01-30 23:05:16,163 [main] INFO  com.api.utils.Log - Endning test case testCreateUser 
+2026-01-30 23:05:16,181 [main] INFO  com.api.utils.Log - Starting test case testCreateUser 
+2026-01-30 23:05:16,391 [main] INFO  com.api.utils.Log - Response of create user{
+    "id": 8351921,
+    "name": "Jack",
+    "email": "jack861@gmail.com",
+    "gender": "male",
+    "status": "active"
+}
+2026-01-30 23:05:16,451 [main] INFO  com.api.utils.Log - Endning test case testCreateUser 
+2026-01-30 23:05:16,457 [main] INFO  com.api.utils.Log - Starting test case testGetUser 
+2026-01-30 23:05:16,667 [main] INFO  com.api.utils.Log - Response of get user{
+    "id": 8351921,
+    "name": "Jack",
+    "email": "jack861@gmail.com",
+    "gender": "male",
+    "status": "active"
+}
+2026-01-30 23:05:16,711 [main] INFO  com.api.utils.Log - Endning test case testGetUser 
+2026-01-30 23:13:45,434 [main] INFO  com.api.utils.Log - Starting test case testCreateUser 
+2026-01-30 23:13:48,063 [main] INFO  com.api.utils.Log - Response of create user{
+    "id": 8351929,
+    "name": "Jemmy Doe",
+    "email": "jemmy.doe111415@gmail.com",
+    "gender": "male",
+    "status": "active"
+}
+2026-01-30 23:13:48,827 [main] INFO  com.api.utils.Log - Endning test case testCreateUser 
+2026-01-30 23:13:48,845 [main] INFO  com.api.utils.Log - Starting test case testCreateUser 
+2026-01-30 23:13:49,074 [main] INFO  com.api.utils.Log - Response of create user{
+    "id": 8351930,
+    "name": "Alisha Ray",
+    "email": "alisha.ray111890@gmail.com",
+    "gender": "female",
+    "status": "active"
+}
+2026-01-30 23:13:49,164 [main] INFO  com.api.utils.Log - Endning test case testCreateUser 
+2026-01-30 23:13:49,177 [main] INFO  com.api.utils.Log - Starting test case testCreateUser 
+2026-01-30 23:13:49,409 [main] INFO  com.api.utils.Log - Response of create user{
+    "id": 8351931,
+    "name": "John Test",
+    "email": "john.test111828@gmail.com",
+    "gender": "male",
+    "status": "inactive"
+}
+2026-01-30 23:13:49,483 [main] INFO  com.api.utils.Log - Endning test case testCreateUser 
+2026-01-30 23:13:49,492 [main] INFO  com.api.utils.Log - Starting test case testCreateUser 
+2026-01-30 23:13:49,739 [main] INFO  com.api.utils.Log - Response of create user{
+    "id": 8351932,
+    "name": "Jack",
+    "email": "jack623@gmail.com",
+    "gender": "male",
+    "status": "active"
+}
+2026-01-30 23:13:49,819 [main] INFO  com.api.utils.Log - Endning test case testCreateUser 
+2026-01-30 23:13:49,825 [main] INFO  com.api.utils.Log - Starting test case testGetUser 
+2026-01-30 23:13:50,044 [main] INFO  com.api.utils.Log - Response of get user{
+    "id": 8351932,
+    "name": "Jack",
+    "email": "jack623@gmail.com",
+    "gender": "male",
+    "status": "active"
+}
+2026-01-30 23:13:50,079 [main] INFO  com.api.utils.Log - Endning test case testGetUser 
+2026-02-01 08:52:11,948 [main] INFO  com.api.utils.Log - Starting test case testCreateUser 
+2026-02-01 08:52:15,068 [main] INFO  com.api.utils.Log - Response of create user{
+    "id": 8353496,
+    "name": "Jemmy Doe",
+    "email": "jemmy.doe111244@gmail.com",
+    "gender": "male",
+    "status": "active"
+}
+2026-02-01 08:52:15,877 [main] INFO  com.api.utils.Log - Endning test case testCreateUser 
+2026-02-01 08:52:15,886 [main] INFO  com.api.utils.Log - Starting test case testCreateUser 
+2026-02-01 08:52:16,135 [main] INFO  com.api.utils.Log - Response of create user{
+    "id": 8353497,
+    "name": "Alisha Ray",
+    "email": "alisha.ray111378@gmail.com",
+    "gender": "female",
+    "status": "active"
+}
+2026-02-01 08:52:16,216 [main] INFO  com.api.utils.Log - Endning test case testCreateUser 
+2026-02-01 08:52:16,223 [main] INFO  com.api.utils.Log - Starting test case testCreateUser 
+2026-02-01 08:52:16,419 [main] INFO  com.api.utils.Log - Response of create user{
+    "id": 8353498,
+    "name": "John Test",
+    "email": "john.test11141@gmail.com",
+    "gender": "male",
+    "status": "inactive"
+}
+2026-02-01 08:52:16,472 [main] INFO  com.api.utils.Log - Endning test case testCreateUser 
+2026-02-01 08:52:16,894 [main] INFO  com.api.utils.Log - Starting test case testCreateUser 
+2026-02-01 08:52:17,091 [main] INFO  com.api.utils.Log - Response of create user{
+    "id": 8353499,
+    "name": "Jack",
+    "email": "jack153@gmail.com",
+    "gender": "male",
+    "status": "active"
+}
+2026-02-01 08:52:17,134 [main] INFO  com.api.utils.Log - Endning test case testCreateUser 
+2026-02-01 08:52:17,141 [main] INFO  com.api.utils.Log - Starting test case testGetUser 
+2026-02-01 08:52:17,358 [main] INFO  com.api.utils.Log - Response of get user{
+    "id": 8353499,
+    "name": "Jack",
+    "email": "jack153@gmail.com",
+    "gender": "male",
+    "status": "active"
+}
+2026-02-01 08:52:17,378 [main] INFO  com.api.utils.Log - Endning test case testGetUser 
+2026-02-01 10:58:23,366 [main] INFO  com.api.utils.Log - Starting test case testCreateUser 
+2026-02-01 10:58:26,040 [main] INFO  com.api.utils.Log - Response of create user{
+    "id": 8353560,
+    "name": "Jemmy Doe",
+    "email": "jemmy.doe11138@gmail.com",
+    "gender": "male",
+    "status": "active"
+}
+2026-02-01 10:58:26,855 [main] INFO  com.api.utils.Log - Endning test case testCreateUser 
+2026-02-01 10:58:26,864 [main] INFO  com.api.utils.Log - Starting test case testCreateUser 
+2026-02-01 10:58:27,112 [main] INFO  com.api.utils.Log - Response of create user{
+    "id": 8353561,
+    "name": "Alisha Ray",
+    "email": "alisha.ray111682@gmail.com",
+    "gender": "female",
+    "status": "active"
+}
+2026-02-01 10:58:27,194 [main] INFO  com.api.utils.Log - Endning test case testCreateUser 
+2026-02-01 10:58:27,206 [main] INFO  com.api.utils.Log - Starting test case testCreateUser 
+2026-02-01 10:58:27,439 [main] INFO  com.api.utils.Log - Response of create user{
+    "id": 8353562,
+    "name": "John Test",
+    "email": "john.test111843@gmail.com",
+    "gender": "male",
+    "status": "inactive"
+}
+2026-02-01 10:58:27,491 [main] INFO  com.api.utils.Log - Endning test case testCreateUser 
+2026-02-01 10:58:27,875 [main] INFO  com.api.utils.Log - Starting test case testCreateUser 
+2026-02-01 10:58:28,083 [main] INFO  com.api.utils.Log - Response of create user{
+    "id": 8353563,
+    "name": "Jack",
+    "email": "jack10@gmail.com",
+    "gender": "male",
+    "status": "active"
+}
+2026-02-01 10:58:28,141 [main] INFO  com.api.utils.Log - Endning test case testCreateUser 
+2026-02-01 10:58:28,153 [main] INFO  com.api.utils.Log - Starting test case testGetUser 
+2026-02-01 10:58:28,339 [main] INFO  com.api.utils.Log - Response of get user{
+    "id": 8353563,
+    "name": "Jack",
+    "email": "jack10@gmail.com",
+    "gender": "male",
+    "status": "active"
+}
+2026-02-01 10:58:28,354 [main] INFO  com.api.utils.Log - Endning test case testGetUser 
+2026-02-01 11:23:03,634 [main] INFO  com.api.utils.Log - Starting test case testCreateUser 
+2026-02-01 11:23:14,028 [main] INFO  com.api.utils.Log - Response of create user{
+    "id": 8353581,
+    "name": "Jemmy Doe",
+    "email": "jemmy.doe111682@gmail.com",
+    "gender": "male",
+    "status": "active"
+}
+2026-02-01 11:23:14,925 [main] INFO  com.api.utils.Log - Endning test case testCreateUser 
+2026-02-01 11:23:14,935 [main] INFO  com.api.utils.Log - Starting test case testCreateUser 
+2026-02-01 11:23:16,702 [main] INFO  com.api.utils.Log - Response of create user{
+    "id": 8353582,
+    "name": "Alisha Ray",
+    "email": "alisha.ray111153@gmail.com",
+    "gender": "female",
+    "status": "active"
+}
+2026-02-01 11:23:16,772 [main] INFO  com.api.utils.Log - Endning test case testCreateUser 
+2026-02-01 11:23:16,777 [main] INFO  com.api.utils.Log - Starting test case testCreateUser 
+2026-02-01 11:23:57,826 [main] INFO  com.api.utils.Log - Starting test case testCreateUser 
+2026-02-01 11:23:57,861 [main] INFO  com.api.utils.Log - Starting test case testGetUser 
+2026-02-01 11:24:16,147 [main] INFO  com.api.utils.Log - Starting test case testCreateUser 
+2026-02-01 11:24:19,825 [main] INFO  com.api.utils.Log - Response of create user{
+    "id": 8353583,
+    "name": "Jemmy Doe",
+    "email": "jemmy.doe111822@gmail.com",
+    "gender": "male",
+    "status": "active"
+}
+2026-02-01 11:24:20,608 [main] INFO  com.api.utils.Log - Endning test case testCreateUser 
+2026-02-01 11:24:20,617 [main] INFO  com.api.utils.Log - Starting test case testCreateUser 
+2026-02-01 11:24:22,065 [main] INFO  com.api.utils.Log - Response of create user{
+    "id": 8353584,
+    "name": "Alisha Ray",
+    "email": "alisha.ray111872@gmail.com",
+    "gender": "female",
+    "status": "active"
+}
+2026-02-01 11:24:22,146 [main] INFO  com.api.utils.Log - Endning test case testCreateUser 
+2026-02-01 11:24:22,151 [main] INFO  com.api.utils.Log - Starting test case testCreateUser 
+2026-02-01 11:24:24,017 [main] INFO  com.api.utils.Log - Response of create user{
+    "id": 8353585,
+    "name": "John Test",
+    "email": "john.test111375@gmail.com",
+    "gender": "male",
+    "status": "inactive"
+}
+2026-02-01 11:24:24,077 [main] INFO  com.api.utils.Log - Endning test case testCreateUser 
+2026-02-01 11:24:24,084 [main] INFO  com.api.utils.Log - Starting test case testCreateUser 
+2026-02-01 11:24:25,128 [main] INFO  com.api.utils.Log - Response of create user{
+    "id": 8353586,
+    "name": "Jack",
+    "email": "jack543@gmail.com",
+    "gender": "male",
+    "status": "active"
+}
+2026-02-01 11:24:25,188 [main] INFO  com.api.utils.Log - Endning test case testCreateUser 
+2026-02-01 11:24:25,196 [main] INFO  com.api.utils.Log - Starting test case testGetUser 
+2026-02-01 11:24:26,066 [main] INFO  com.api.utils.Log - Response of get user{
+    "id": 8353586,
+    "name": "Jack",
+    "email": "jack543@gmail.com",
+    "gender": "male",
+    "status": "active"
+}
+2026-02-01 11:24:26,095 [main] INFO  com.api.utils.Log - Endning test case testGetUser 
+2026-02-16 09:17:43,139 [main] INFO  com.api.utils.Log - Starting test case testCreateUser 
+2026-02-16 09:17:45,969 [main] INFO  com.api.utils.Log - Response of create user{
+    "id": 8371512,
+    "name": "Jemmy Doe",
+    "email": "jemmy.doe111127@gmail.com",
+    "gender": "male",
+    "status": "active"
+}
+2026-02-16 09:17:46,841 [main] INFO  com.api.utils.Log - Endning test case testCreateUser 
+2026-02-16 09:17:46,859 [main] INFO  com.api.utils.Log - Starting test case testCreateUser 
+2026-02-16 09:17:47,094 [main] INFO  com.api.utils.Log - Response of create user{
+    "id": 8371513,
+    "name": "Alisha Ray",
+    "email": "alisha.ray111140@gmail.com",
+    "gender": "female",
+    "status": "active"
+}
+2026-02-16 09:17:47,169 [main] INFO  com.api.utils.Log - Endning test case testCreateUser 
+2026-02-16 09:17:47,176 [main] INFO  com.api.utils.Log - Starting test case testCreateUser 
+2026-02-16 09:17:47,448 [main] INFO  com.api.utils.Log - Response of create user{
+    "id": 8371514,
+    "name": "John Test",
+    "email": "john.test111796@gmail.com",
+    "gender": "male",
+    "status": "inactive"
+}
+2026-02-16 09:17:47,501 [main] INFO  com.api.utils.Log - Endning test case testCreateUser 
+2026-02-16 09:17:47,513 [main] INFO  com.api.utils.Log - Starting test case testCreateUser 
+2026-02-16 09:17:47,741 [main] INFO  com.api.utils.Log - Response of create user{
+    "id": 8371515,
+    "name": "Jack",
+    "email": "jack193@gmail.com",
+    "gender": "male",
+    "status": "active"
+}
+2026-02-16 09:17:47,799 [main] INFO  com.api.utils.Log - Endning test case testCreateUser 
+2026-02-16 09:17:47,804 [main] INFO  com.api.utils.Log - Starting test case testGetUser 
+2026-02-16 09:17:48,094 [main] INFO  com.api.utils.Log - Response of get user{
+    "id": 8371515,
+    "name": "Jack",
+    "email": "jack193@gmail.com",
+    "gender": "male",
+    "status": "active"
+}
+2026-02-16 09:17:48,118 [main] INFO  com.api.utils.Log - Endning test case testGetUser 
+2026-02-16 09:30:39,274 [main] INFO  com.api.utils.Log - Starting test case testCreateUser 
+2026-02-16 09:30:41,923 [main] INFO  com.api.utils.Log - Response of create user{
+    "id": 8371517,
+    "name": "Jemmy Doe",
+    "email": "jemmy.doe111778@gmail.com",
+    "gender": "male",
+    "status": "active"
+}
+2026-02-16 09:30:42,782 [main] INFO  com.api.utils.Log - Endning test case testCreateUser 
+2026-02-16 09:30:42,791 [main] INFO  com.api.utils.Log - Starting test case testCreateUser 
+2026-02-16 09:30:42,996 [main] INFO  com.api.utils.Log - Response of create user{
+    "id": 8371518,
+    "name": "Alisha Ray",
+    "email": "alisha.ray111918@gmail.com",
+    "gender": "female",
+    "status": "active"
+}
+2026-02-16 09:30:43,050 [main] INFO  com.api.utils.Log - Endning test case testCreateUser 
+2026-02-16 09:30:43,056 [main] INFO  com.api.utils.Log - Starting test case testCreateUser 
+2026-02-16 09:30:43,234 [main] INFO  com.api.utils.Log - Response of create user{
+    "id": 8371519,
+    "name": "John Test",
+    "email": "john.test111373@gmail.com",
+    "gender": "male",
+    "status": "inactive"
+}
+2026-02-16 09:30:43,279 [main] INFO  com.api.utils.Log - Endning test case testCreateUser 
+2026-02-16 09:30:43,285 [main] INFO  com.api.utils.Log - Starting test case testCreateUser 
+2026-02-16 09:30:43,458 [main] INFO  com.api.utils.Log - Response of create user{
+    "id": 8371520,
+    "name": "Jack",
+    "email": "jack203@gmail.com",
+    "gender": "male",
+    "status": "active"
+}
+2026-02-16 09:30:43,515 [main] INFO  com.api.utils.Log - Endning test case testCreateUser 
+2026-02-16 09:30:43,520 [main] INFO  com.api.utils.Log - Starting test case testGetUser 
+2026-02-16 09:30:43,686 [main] INFO  com.api.utils.Log - Response of get user{
+    "id": 8371520,
+    "name": "Jack",
+    "email": "jack203@gmail.com",
+    "gender": "male",
+    "status": "active"
+}
+2026-02-16 09:30:43,704 [main] INFO  com.api.utils.Log - Endning test case testGetUser 
+2026-02-20 17:15:33,438 [main] INFO  com.api.utils.Log - Starting test case testCreateUser 
+2026-02-20 17:15:36,577 [main] INFO  com.api.utils.Log - Response of create user{
+    "id": 8379150,
+    "name": "Jemmy Doe",
+    "email": "jemmy.doe111802@gmail.com",
+    "gender": "male",
+    "status": "active"
+}
+2026-02-20 17:15:37,532 [main] INFO  com.api.utils.Log - Endning test case testCreateUser 
+2026-02-20 17:15:37,544 [main] INFO  com.api.utils.Log - Starting test case testCreateUser 
+2026-02-20 17:15:37,777 [main] INFO  com.api.utils.Log - Response of create user{
+    "id": 8379151,
+    "name": "Alisha Ray",
+    "email": "alisha.ray111590@gmail.com",
+    "gender": "female",
+    "status": "active"
+}
+2026-02-20 17:15:37,831 [main] INFO  com.api.utils.Log - Endning test case testCreateUser 
+2026-02-20 17:15:37,837 [main] INFO  com.api.utils.Log - Starting test case testCreateUser 
+2026-02-20 17:15:38,046 [main] INFO  com.api.utils.Log - Response of create user{
+    "id": 8379152,
+    "name": "John Test",
+    "email": "john.test111903@gmail.com",
+    "gender": "male",
+    "status": "inactive"
+}
+2026-02-20 17:15:38,097 [main] INFO  com.api.utils.Log - Endning test case testCreateUser 
+2026-02-20 17:15:38,113 [main] INFO  com.api.utils.Log - Starting test case testCreateUser 
+2026-02-20 17:15:38,325 [main] INFO  com.api.utils.Log - Response of create user{
+    "id": 8379153,
+    "name": "Jack",
+    "email": "jack90@gmail.com",
+    "gender": "male",
+    "status": "active"
+}
+2026-02-20 17:15:38,389 [main] INFO  com.api.utils.Log - Endning test case testCreateUser 
+2026-02-20 17:15:38,399 [main] INFO  com.api.utils.Log - Starting test case testGetUser 
+2026-02-20 17:15:38,608 [main] INFO  com.api.utils.Log - Response of get user{
+    "id": 8379153,
+    "name": "Jack",
+    "email": "jack90@gmail.com",
+    "gender": "male",
+    "status": "active"
+}
+2026-02-20 17:15:38,629 [main] INFO  com.api.utils.Log - Endning test case testGetUser 
+2026-02-20 17:24:46,288 [main] INFO  com.api.utils.Log - Starting test case testCreateUser 
+2026-02-20 17:24:50,138 [main] INFO  com.api.utils.Log - Response of create user{
+    "id": 8379168,
+    "name": "Jemmy Doe",
+    "email": "jemmy.doe111479@gmail.com",
+    "gender": "male",
+    "status": "active"
+}
+2026-02-20 17:24:51,005 [main] INFO  com.api.utils.Log - Endning test case testCreateUser 
+2026-02-20 17:24:51,019 [main] INFO  com.api.utils.Log - Starting test case testCreateUser 
+2026-02-20 17:24:51,865 [main] INFO  com.api.utils.Log - Response of create user{
+    "id": 8379169,
+    "name": "Alisha Ray",
+    "email": "alisha.ray111415@gmail.com",
+    "gender": "female",
+    "status": "active"
+}
+2026-02-20 17:24:51,930 [main] INFO  com.api.utils.Log - Endning test case testCreateUser 
+2026-02-20 17:24:51,937 [main] INFO  com.api.utils.Log - Starting test case testCreateUser 
+2026-02-20 17:24:53,088 [main] INFO  com.api.utils.Log - Response of create user{
+    "id": 8379170,
+    "name": "John Test",
+    "email": "john.test111627@gmail.com",
+    "gender": "male",
+    "status": "inactive"
+}
+2026-02-20 17:24:53,163 [main] INFO  com.api.utils.Log - Endning test case testCreateUser 
+2026-02-20 17:24:53,170 [main] INFO  com.api.utils.Log - Starting test case testCreateUser 
+2026-02-20 17:24:54,006 [main] INFO  com.api.utils.Log - Response of create user{
+    "id": 8379171,
+    "name": "Jack",
+    "email": "jack866@gmail.com",
+    "gender": "male",
+    "status": "active"
+}
+2026-02-20 17:24:54,073 [main] INFO  com.api.utils.Log - Endning test case testCreateUser 
+2026-02-20 17:24:54,080 [main] INFO  com.api.utils.Log - Starting test case testGetUser 
+2026-02-20 17:24:54,830 [main] INFO  com.api.utils.Log - Response of get user{
+    "id": 8379171,
+    "name": "Jack",
+    "email": "jack866@gmail.com",
+    "gender": "male",
+    "status": "active"
+}
+2026-02-20 17:24:55,023 [main] INFO  com.api.utils.Log - Endning test case testGetUser 
+2026-02-20 17:28:44,636 [main] INFO  com.api.utils.Log - Starting test case testCreateUser 
+2026-02-20 17:28:48,197 [main] INFO  com.api.utils.Log - Response of create user{
+    "id": 8379178,
+    "name": "Jemmy Doe",
+    "email": "jemmy.doe111370@gmail.com",
+    "gender": "male",
+    "status": "active"
+}
+2026-02-20 17:28:49,050 [main] INFO  com.api.utils.Log - Endning test case testCreateUser 
+2026-02-20 17:28:49,065 [main] INFO  com.api.utils.Log - Starting test case testCreateUser 
+2026-02-20 17:28:49,922 [main] INFO  com.api.utils.Log - Response of create user{
+    "id": 8379179,
+    "name": "Alisha Ray",
+    "email": "alisha.ray111587@gmail.com",
+    "gender": "female",
+    "status": "active"
+}
+2026-02-20 17:28:49,986 [main] INFO  com.api.utils.Log - Endning test case testCreateUser 
+2026-02-20 17:28:49,990 [main] INFO  com.api.utils.Log - Starting test case testCreateUser 
+2026-02-20 17:28:50,947 [main] INFO  com.api.utils.Log - Response of create user{
+    "id": 8379180,
+    "name": "John Test",
+    "email": "john.test111651@gmail.com",
+    "gender": "male",
+    "status": "inactive"
+}
+2026-02-20 17:28:50,988 [main] INFO  com.api.utils.Log - Endning test case testCreateUser 
+2026-02-20 17:28:50,997 [main] INFO  com.api.utils.Log - Starting test case testCreateUser 
+2026-02-20 17:28:55,452 [main] INFO  com.api.utils.Log - Response of create user{
+    "id": 8379181,
+    "name": "Jack",
+    "email": "jack197@gmail.com",
+    "gender": "male",
+    "status": "active"
+}
+2026-02-20 17:28:55,489 [main] INFO  com.api.utils.Log - Endning test case testCreateUser 
+2026-02-20 17:28:55,493 [main] INFO  com.api.utils.Log - Starting test case testGetUser 
+2026-02-20 17:28:57,569 [main] INFO  com.api.utils.Log - Response of get user{
+    "id": 8379181,
+    "name": "Jack",
+    "email": "jack197@gmail.com",
+    "gender": "male",
+    "status": "active"
+}
+2026-02-20 17:28:57,592 [main] INFO  com.api.utils.Log - Endning test case testGetUser 
+2026-02-20 17:42:15,864 [main] INFO  com.api.utils.Log - Starting test case testCreateUser 
+2026-02-20 17:42:19,403 [main] INFO  com.api.utils.Log - Response of create user{
+    "id": 8379205,
+    "name": "Jemmy Doe",
+    "email": "jemmy.doe111609@gmail.com",
+    "gender": "male",
+    "status": "active"
+}
+2026-02-20 17:42:20,239 [main] INFO  com.api.utils.Log - Endning test case testCreateUser 
+2026-02-20 17:42:20,253 [main] INFO  com.api.utils.Log - Starting test case testCreateUser 
+2026-02-20 17:42:20,878 [main] INFO  com.api.utils.Log - Response of create user{
+    "id": 8379206,
+    "name": "Alisha Ray",
+    "email": "alisha.ray111436@gmail.com",
+    "gender": "female",
+    "status": "active"
+}
+2026-02-20 17:42:20,938 [main] INFO  com.api.utils.Log - Endning test case testCreateUser 
+2026-02-20 17:42:20,943 [main] INFO  com.api.utils.Log - Starting test case testCreateUser 
+2026-02-20 17:42:21,671 [main] INFO  com.api.utils.Log - Response of create user{
+    "id": 8379207,
+    "name": "John Test",
+    "email": "john.test111714@gmail.com",
+    "gender": "male",
+    "status": "inactive"
+}
+2026-02-20 17:42:21,723 [main] INFO  com.api.utils.Log - Endning test case testCreateUser 
+2026-02-20 17:42:21,733 [main] INFO  com.api.utils.Log - Starting test case testCreateUser 
+2026-02-20 17:42:22,482 [main] INFO  com.api.utils.Log - Response of create user{
+    "id": 8379208,
+    "name": "Jack",
+    "email": "jack309@gmail.com",
+    "gender": "male",
+    "status": "active"
+}
+2026-02-20 17:42:22,524 [main] INFO  com.api.utils.Log - Endning test case testCreateUser 
+2026-02-20 17:42:22,532 [main] INFO  com.api.utils.Log - Starting test case testGetUser 
+2026-02-20 17:42:23,124 [main] INFO  com.api.utils.Log - Response of get user{
+    "id": 8379208,
+    "name": "Jack",
+    "email": "jack309@gmail.com",
+    "gender": "male",
+    "status": "active"
+}
+2026-02-20 17:42:23,142 [main] INFO  com.api.utils.Log - Endning test case testGetUser 
+2026-04-07 16:54:30,391 [main] INFO  com.api.utils.Log - Starting test case testCreateUser 
+2026-04-07 16:54:33,276 [main] INFO  com.api.utils.Log - Response of create user{
+    "id": 8427849,
+    "name": "Jemmy Doe",
+    "email": "jemmy.doe111503@gmail.com",
+    "gender": "male",
+    "status": "active"
+}
+2026-04-07 16:54:34,186 [main] INFO  com.api.utils.Log - Endning test case testCreateUser 
+2026-04-07 16:54:34,200 [main] INFO  com.api.utils.Log - Starting test case testCreateUser 
+2026-04-07 16:54:34,480 [main] INFO  com.api.utils.Log - Response of create user{
+    "id": 8427850,
+    "name": "Alisha Ray",
+    "email": "alisha.ray111843@gmail.com",
+    "gender": "female",
+    "status": "active"
+}
+2026-04-07 16:54:34,550 [main] INFO  com.api.utils.Log - Endning test case testCreateUser 
+2026-04-07 16:54:34,555 [main] INFO  com.api.utils.Log - Starting test case testCreateUser 
+2026-04-07 16:54:34,780 [main] INFO  com.api.utils.Log - Response of create user{
+    "id": 8427851,
+    "name": "John Test",
+    "email": "john.test111126@gmail.com",
+    "gender": "male",
+    "status": "inactive"
+}
+2026-04-07 16:54:34,848 [main] INFO  com.api.utils.Log - Endning test case testCreateUser 
+2026-04-07 16:54:34,859 [main] INFO  com.api.utils.Log - Starting test case testCreateUser 
+2026-04-07 16:54:35,063 [main] INFO  com.api.utils.Log - Response of create user{
+    "id": 8427852,
+    "name": "Jack",
+    "email": "jack542@gmail.com",
+    "gender": "male",
+    "status": "active"
+}
+2026-04-07 16:54:35,134 [main] INFO  com.api.utils.Log - Endning test case testCreateUser 
+2026-04-07 16:54:35,141 [main] INFO  com.api.utils.Log - Starting test case testGetUser 
+2026-04-07 16:54:35,371 [main] INFO  com.api.utils.Log - Response of get user{
+    "id": 8427852,
+    "name": "Jack",
+    "email": "jack542@gmail.com",
+    "gender": "male",
+    "status": "active"
+}
+2026-04-07 16:54:35,393 [main] INFO  com.api.utils.Log - Endning test case testGetUser 

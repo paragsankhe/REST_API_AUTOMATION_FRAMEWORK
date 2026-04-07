@@ -1,0 +1,8 @@
+com\api\utils\ExcelUtils.class
+com\api\services\UserCRUDService.class
+com\api\config\ConfigReader.class
+com\api\listeners\TestSuiteListener.class
+com\api\utils\ExtentManager.class
+com\api\base\BaseTest.class
+com\api\utils\Log.class
+com\api\pojo\UserPOJO.class
